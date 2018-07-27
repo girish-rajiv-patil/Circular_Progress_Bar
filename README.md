@@ -9,10 +9,10 @@ Cocos2d-x is a popular game engine for mobile devices. It has over 400,000 devel
 ###Circular bar ?
 
 
-	<img src="Screenshot2.png"/>
+	<img src="./Screenshot2.png"/>
 
 
 ### Progress Bar ?
-	<img src="Screenshot1.png"/>
+	<img src="./Screenshot1.png"/>
 
 * Complie and Run.
